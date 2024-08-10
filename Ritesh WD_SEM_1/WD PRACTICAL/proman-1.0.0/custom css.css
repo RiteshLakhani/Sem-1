@@ -1,0 +1,51 @@
+:root{
+	--navbarbg: lightgray !important;
+	--navbarfont: white !important;
+	--bg: black !important;
+	--font: white !important;
+	--servicebeg: lightgray !important;
+	--blackfont: black !important;
+	--projectsfonts: lightgray !important;
+
+}
+.bgnavbar{
+	background-color: var(--navbarbg) ;
+}
+body{
+	background-color: var(--bg);
+}
+div{
+	background-color: var(--bg);
+}
+.service{
+	color: var(--servicebeg);
+}
+.servicefont{
+	color: var(--black);
+}
+.projectspoint{
+	color: var(--projectsfonts);
+}
+.navbar div{
+              background-color: var(--navbarbg);
+              color:var(--navbarfont);
+}
+h1{
+	color:var(--font);
+}
+h2{
+	color:var(--font);
+}
+h3{
+	color:var(--font);
+}
+h4{
+	color:var(--font);
+}
+h5{
+	color:var(--font);
+}
+h6{
+	color:var(--font);
+}
+

@@ -1,0 +1,16 @@
+<html>
+<head>
+		<title>Covid-19 Vacine Registration</title>
+</head>
+
+<body><h1>Covid-19 Vacine Registration</h1>
+
+<form>
+
+<table border=1>
+
+	<tr>First Name</tr><tr>:</tr><tr><input text="" requried=""></tr>
+</table>
+</form>
+</body>
+</html>
